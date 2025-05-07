@@ -9,40 +9,6 @@
     <img src="https://img.shields.io/badge/license-Q--CDA-lightgrey.svg" alt="License: Q-CDA">
   </a>
 </p>
-<!-- zenodo-metadata
-{
-  "title": "qtemplate",
-  "description": "A software project at the intersection of AI, Quantum, and Healthcare.",
-  "license": ["AGPL-3.0", "Q-CDA-1.0"],
-  "language": "eng",
-  "upload_type": "software",
-  "access_right": "open",
-  "creators": [
-    {
-      "name": "Porter, Matthew A.",
-      "affiliation": "Qompass AI",
-      "orcid": "https://orcid.org/0000-0002-0302-4812"
-    }
-  ],
-  "keywords": [
-    "AI",
-    "Quantum",
-    "Post-Quantum Cryptography",
-    "Healthcare",
-    "Medical Education",
-    "Post-Quantum AI"
-  ],
-  "communities": [
-    {"identifier": "qompassai"}
-  ],
-  "contributors": [
-    {
-      "name": "Qompass AI",
-      "type": "Sponsor"
-    }
-  ]
-}
--->
 
 ---
 
@@ -66,12 +32,9 @@ Or in BibTeX format:
 }
 
 
-### 📄 <reponame>
+### 📄 Repo Structure
 
-- [Qompass Diver](https://github.com/qompassai/Diver)
-- [Qompass rose.nvim](https://github.com/qompassai/rose.nvim)
-- [Qompass blaze.nvim](https://github.com/qompassai/blaze.nvim)
-- [Qompass blaze-ts.nvim](https://github.com/qompassai/blaze-ts.nvim)
+
 
 ---
 
