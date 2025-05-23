@@ -1,4 +1,4 @@
-<!-- /qompassai/tor/README.md -->
+<!-- /qompassai/qssh/README.md -->
 <!-- ---------------------------- -->
 <!-- Copyright (C) 2025 Qompass AI, All rights reserved -->
 
@@ -7,6 +7,7 @@
 <h3> Qompass AI on SSH </h3>
 
 ![Repository Views](https://komarev.com/ghpvc/?username=qompassai-qssh)
+![GitHub all releases](https://img.shields.io/github/downloads/qompassai/qssh/total?style=flat-square)
   <a href="https://openquantumsafe.org/">
   <img src="https://img.shields.io/badge/Post--Quantum_Encryption-0057B7?style=for-the-badge&logo=quantconnect&logoColor=white" alt="Post-Quantum Encryption">
 </a>
